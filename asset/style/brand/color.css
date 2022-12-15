@@ -1,0 +1,17 @@
+/*
+ * Pantheon theme.
+ * Color library.
+ */
+
+:root {
+    --pnt-color-white:#FFFFFF;
+    --pnt-color-black:#212529;
+
+    --pnt-color-blue:#0D6EFD;
+    --pnt-color-darkBlue:#0D6AF6;
+    --pnt-color-orange:#FF9029;
+
+    --pnt-color-gray:#A1A6AC;
+    --pnt-color-lightGray:#DEE2E6;
+    --pnt-color-darkGray:#6C757D;
+}
